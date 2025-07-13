@@ -1,1 +1,2 @@
 Hello my new life and my new World!
+This line - Test word in vsCode
